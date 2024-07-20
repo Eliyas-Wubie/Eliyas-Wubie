@@ -1,5 +1,7 @@
 ## Hi there 👋
-![GitHub Contributions](https://img.shields.io/github/commit-activity/w/Eliyas-Wubie/G-System)
+![GitHub Contributions](https://img.shields.io/github/commit-activity/w/Eliyas-Wubie/G_System)
+![GitHub Contributions](https://img.shields.io/github/commit-activity/w/Eliyas-Wubie/Score_py_API)
+![GitHub Contributions](https://img.shields.io/github/commit-activity/w/Eliyas-Wubie/ECC-web)
 
 <!--
 **Eliyas-Wubie/Eliyas-Wubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
