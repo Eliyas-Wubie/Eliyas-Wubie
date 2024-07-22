@@ -2,10 +2,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eliyas-wubie)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Eliyas-Wubie/Eliyas-Wubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... XDR solution, and cybersecurity tools
 - 🌱 I’m currently learning ... Fullstack, C++, Python, Scripting
 <!-- 👯 I’m looking to collaborate on ...
