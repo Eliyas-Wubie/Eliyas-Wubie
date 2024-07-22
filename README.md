@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ... XDR solution, and cybersecurity tools
+## 🔭 I’m currently working on ... XDR solution, and cybersecurity tools
 - 🌱 I’m currently learning ... Fullstack, C++, Python, Scripting
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
