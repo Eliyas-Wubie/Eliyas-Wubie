@@ -16,7 +16,3 @@ I'm a Product Manager / Software Developer passionate about open-source projects
 - [TCPserver](https://github.com/Eliyas-Wubie/TCPserver)
 
 
-![Profile Picture](https://github.com/Eliyas-Wubie/Eliyas-Wubie/blob/main/profile-picture.jpg)
-
-
-
