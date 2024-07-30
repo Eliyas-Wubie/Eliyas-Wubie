@@ -1,5 +1,7 @@
 # Hi there, I'm Eliyas Wubie 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eliyas-Wubie)](https://github.com/ryo-ma/github-profile-trophy)
+
 Welcome to my GitHub profile! 
 
 ## 🚀 About Me
@@ -16,13 +18,6 @@ I'm a Product Manager / Software Developer passionate about open-source projects
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliyas-Wubie&show_icons=true&theme=radical)
 
 ![GitHub followers](https://img.shields.io/github/followers/Eliyas-Wubie?style=social)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?logo=javascript&logoColor=black)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=johnDoe)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Profile Picture](https://github.com/johnDoe/Eliyas-Wubie/blob/main/profile-picture.jpg)
 
 ## 🛠️ Technologies & Languages
 
@@ -30,5 +25,13 @@ I'm a Product Manager / Software Developer passionate about open-source projects
 |:---:|:---:|:---:|
 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?logo=javascript&logoColor=black)
+
+
+
+
+
+![Profile Picture](https://github.com/johnDoe/Eliyas-Wubie/blob/main/profile-picture.jpg)
+
 
 
