@@ -6,11 +6,13 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me ![GitHub followers](https://img.shields.io/github/followers/Eliyas-Wubie?style=social)
 I'm a Product Manager / Software Developer passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking areas.
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliyas-Wubie&show_icons=true&theme=radical)
+
 ## 🛠️ Skills
 - **Languages**: <span style="color:blue">JavaScript</span>, <span style="color:green">Python</span>, <span style="color:red">C++</span>
 - **Frameworks**: <span style="color:purple">React</span>, <span style="color:orange">Node Js</span>
-## 🛠️ Technologies & Languages
+
 ## 🛠️ Technologies & Languages
 
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) |
@@ -22,7 +24,9 @@ I'm a Product Manager / Software Developer passionate about open-source projects
 
 
 ## 🌟 Projects
-- [Project 1](https://github.com/johnDoe/project1)
+- [Project 1](https://github.com/Eliyas-Wubie/TCPclient)
+- [Project 1](https://github.com/Eliyas-Wubie/TCPserver)
+
 
 
 
