@@ -12,7 +12,8 @@ I'm a Product Manager / Software Developer passionate about open-source projects
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliyas-Wubie&show_icons=true&theme=radical)
 
 ## 🌟 Projects
-- [TCPclient](https://github.com/Eliyas-Wubie/TCPclient)
-- [TCPserver](https://github.com/Eliyas-Wubie/TCPserver)
+- [Tebek_CLI_Password_Manager](https://github.com/Eliyas-Wubie/Tebek_CLI_Password_Manager)
+- [DataHandler](https://github.com/Eliyas-Wubie/DataHandler)
+- [log_publisher](https://github.com/Eliyas-Wubie/log_publisher)
 
 
