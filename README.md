@@ -9,8 +9,6 @@ Welcome to my GitHub profile!
 ## 🚀 About Me ![GitHub followers](https://img.shields.io/github/followers/Eliyas-Wubie?style=social)
 I'm a Product Manager / Software Developer passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking areas.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliyas-Wubie&show_icons=true&theme=radical)
-
 ## 🌟 Projects
 - [Tebek_CLI_Password_Manager](https://github.com/Eliyas-Wubie/Tebek_CLI_Password_Manager)
 - [DataHandler](https://github.com/Eliyas-Wubie/DataHandler)
