@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
 I'm a Product Manager / Software Developer passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking areas.
 
 ## 🌟 Projects
-- [Static-Malware-detection]([https://github.com/Eliyas-Wubie/DataHandler](https://github.com/Eliyas-Wubie/Static-Malware-detection))
+- [Static-Malware-detection](https://github.com/Eliyas-Wubie/Static-Malware-detection)
 - [Tebek_CLI_Password_Manager](https://github.com/Eliyas-Wubie/Tebek_CLI_Password_Manager)
-- [mindmate-free-GIA]([https://github.com/Eliyas-Wubie/log_publisher](https://github.com/Eliyas-Wubie/mindmate-free-GIA))
+- [mindmate-free-GIA](https://github.com/Eliyas-Wubie/mindmate-free-GIA)
 
 
