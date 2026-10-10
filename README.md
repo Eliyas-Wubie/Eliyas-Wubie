@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! 
 
 ## 🚀 About Me ![GitHub followers](https://img.shields.io/github/followers/Eliyas-Wubie?style=social)
-I'm a AI Software Developer | Product Manager | cybersecurity professional passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking domains.
+I'm a AI Software Developer | Product Manager | cybersecurity professional passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking domain.
 
 ## 🎶 Portfolio 🎶
 [Eliyas.chanyalew](https://www.eliyas.chanyalew.com/)
