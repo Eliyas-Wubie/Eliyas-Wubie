@@ -12,8 +12,11 @@ I'm a AI Software Developer | Product Manager | cybersecurity professional passi
 
 ## 🔊 Social Media 🔊
 ![Youtube](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white) [Brave Dice](https://www.youtube.com/@BraveDice)
+
 ![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white) [Eliyas Wubie Chanyalew](https://www.linkedin.com/in/eliyas-wubie-itech0101/)
+
 ![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white) [Eliyas Wubie](https://x.com/ela_dev_sec_ops)
+
 ![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white) [ela_dev_dec_ops](https://www.instagram.com/ela_dev_dec_ops/)
 
 ## 🌟 Projects
