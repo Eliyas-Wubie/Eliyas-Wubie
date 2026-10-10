@@ -7,27 +7,11 @@ Welcome to my GitHub profile!
 ## 🚀 About Me ![GitHub followers](https://img.shields.io/github/followers/Eliyas-Wubie?style=social)
 I'm a AI Software Developer | Product Manager | cybersecurity professional passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking domains.
 
-<!-- Copy-paste in your Readme.md file -->
+## 🎶 Portfolio 🎶
+![Eliyas.chanyalew](https://www.eliyas.chanyalew.com/)
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Pushes and Commits of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+## 🔊 Social Media 🔊
+![Youtube](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![X](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Instagram](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 
 ## 🌟 Projects
 - [Static-Malware-detection](https://github.com/Eliyas-Wubie/Static-Malware-detection)
