@@ -8,10 +8,10 @@ Welcome to my GitHub profile!
 I'm a AI Software Developer | Product Manager | cybersecurity professional passionate about open-source projects and new technologies, especially in the cybersecurity and ethical hacking domains.
 
 ## 🎶 Portfolio 🎶
-![Eliyas.chanyalew](https://www.eliyas.chanyalew.com/)
+[Eliyas.chanyalew](https://www.eliyas.chanyalew.com/)
 
 ## 🔊 Social Media 🔊
-![Youtube](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![X](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Instagram](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Youtube](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white) ![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white)
 
 ## 🌟 Projects
 - [Static-Malware-detection](https://github.com/Eliyas-Wubie/Static-Malware-detection)
